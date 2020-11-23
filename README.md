@@ -1,4 +1,4 @@
-# fft_audioplayer
+# FFT Audioplayer
 Projekt zaliczeniowy na przedmiot - Współczesne Narzędzia Obliczeniowe, 5 semestru studiów inżynierskich na kierunku Automatyka i Robotyka.
 
 
